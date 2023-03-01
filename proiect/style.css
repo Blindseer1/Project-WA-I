@@ -1,0 +1,288 @@
+h1
+{
+    font-size: 60px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color:wheat;
+    text-align: center;
+    margin-top: 5em;
+    margin-bottom:50px ;
+}
+body
+{
+    background-color: black;
+}
+
+
+
+#contact a
+{
+    margin-right: 15px;
+    height: 80px;
+    width: 90px;
+   border: 2px;
+   border-width: 5px;
+    padding:6px;
+    background-color: inherit;
+    color: white;
+    text-decoration: none;
+    font-size: 33px;
+   border-style:ridge;
+}
+.container
+{
+    padding-left: 105em;
+    padding-bottom: 0em;
+    margin-top: 370px;
+    border-style: ridge;
+    border-width:5px 0em 0px 0em;
+
+}
+#trimite
+{
+    height: 40px;
+    width:auto;
+    font-size: 20px;
+}
+#trimite:hover
+{
+    background-color: green;
+}
+#sterge
+{
+    height: 40px;
+    width:auto;
+    font-size: 20px;
+}
+#sterge:hover
+{
+    background-color: red;
+}
+
+form{
+    margin-top: 4em;
+    margin-left: 24em;
+}
+
+.pagini a
+{
+   margin-right: 15px;
+    height: 80px;
+    width: 90px;
+   border: 2px;
+   border-width: 5px;
+    padding:6px;
+    background-color: inherit;
+    color: white;
+    text-decoration: none;
+    font-size: 33px;
+   border-style:ridge;
+
+}
+.pagini a:hover
+{
+    
+    background-color: blue;
+   
+}
+
+.pagini li{
+   
+    display:inline;
+    padding-left: 15px;
+    
+}
+.pagini
+{
+    
+    margin-top:40px;
+    margin-left: 25px;
+    padding-left: 490px;
+}
+#image1
+{
+    margin-top: 30px;
+    height:100px;
+    width: auto;
+}
+
+#image2
+{
+    position:absolute;
+    right:9em ;
+    top:14em;
+
+    display: block;
+    height: auto;
+       width:850px;
+}
+
+h1#tit
+{    
+    background-color: rgba(75, 75, 190, 0.349);
+    text-align:center;
+    margin-top: 0em;
+    padding:40px 0em 40px 0em;
+  
+}
+p
+{
+    box-sizing: border-box;
+    width:33em;
+    color:white;
+    font-size: 31px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+h1#tita
+{
+    background-color: rgba(41, 41, 248, 0.836);
+    text-align:center;
+    margin-top: 0em;
+    padding:40px 0em 40px 0em;
+  
+}
+#image2:hover
+{
+    rotate: 45deg;
+}
+.list
+{
+    color: white;
+    
+    font-size: 33px;
+}
+p#p2
+{
+    width:75em;
+}
+#image3
+{
+    position:absolute;
+    right:12em ;
+    top:14em;
+
+    display:inline-block ;
+    height: auto;
+       width:650px;
+}
+
+#image3:hover
+{
+    transform:scale(3, 0.5)
+}
+table {
+    border-collapse: collapse;
+    height: 100%;
+    width: 80%;
+   margin-left: auto;
+   margin-right: auto;
+    
+}
+
+table td {
+    border: 1px solid wheat;
+    color: white;
+    font-size: 30px;
+}
+#imagt
+{
+     width:600px;
+     height: auto;
+}
+h1#tit3
+{    
+    background-color: rgba(9, 9, 70, 0.349);
+    text-align:center;
+    margin-top: 0em;
+    padding:40px 0em 40px 0em;
+  
+}
+h1#tit4
+{
+    background-color: rgba(55, 55, 211, 0.836);
+    text-align:center;
+    margin-top: 0em;
+    padding:40px 0em 40px 0em;
+  
+}
+.list2
+{
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:white;
+    margin-bottom: 30px;
+    padding-bottom: 55px;
+    
+}
+#element
+{
+    padding-bottom: 15px;
+}
+
+.imaglist  li
+{
+   max-width: 500px;
+   margin-right: 30px;
+   display: inline-block;
+   padding-right: 120px;
+   padding-left: 110px;
+   
+}
+#tit5
+{
+    background-color: rgba(0, 0, 248, 0.349);
+    text-align:center;
+    margin-top: 0em;
+    padding:40px 0em 40px 0em;
+}
+
+#contact a
+{
+    margin-right: 15px;
+    height: 80px;
+    width: 90px;
+   border: 2px;
+   border-width: 5px;
+    padding:6px;
+    background-color: inherit;
+    color: white;
+    text-decoration: none;
+    font-size: 33px;
+   border-style:ridge;
+}
+.container
+{
+    padding-left: 105em;
+    padding-bottom: 0em;
+    margin-top: 370px;
+    border-style: ridge;
+    border-width:5px 0em 0px 0em;
+
+}
+#trimite
+{
+    height: 40px;
+    width:auto;
+    font-size: 20px;
+}
+#trimite:hover
+{
+    background-color: green;
+}
+#sterge
+{
+    height: 40px;
+    width:auto;
+    font-size: 20px;
+}
+#sterge:hover
+{
+    background-color: red;
+}
+
+form{
+    margin-top: 4em;
+    margin-left: 24em;
+}
+
